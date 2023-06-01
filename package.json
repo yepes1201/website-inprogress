@@ -1,0 +1,11 @@
+{
+  "name": "danielyepes-landing-construction",
+  "version": "1.0.0",
+  "description": "In construction landing page for danielyepes.me",
+  "main": "index.js",
+  "author": "Daniel Yepes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
